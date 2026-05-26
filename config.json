@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersarse",
+        "uuid": 2906802,
+        "checksum": "55howw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
